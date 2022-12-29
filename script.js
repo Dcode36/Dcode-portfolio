@@ -68,6 +68,7 @@ var TxtRotate = function (el, toRotate, period) {
      ham.style.display = "none";
      close.style.display = "block";
      x.style.transition = ".5s";
+     ham.style.transition = "ease in 1.5s"
 
     }
     else{

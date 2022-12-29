@@ -112,7 +112,7 @@ main {
 }
 
 .hi {
-    z-index: -1 !important;
+    mix-blend-mode:darken;
 }
 
 .hero-left p span {
